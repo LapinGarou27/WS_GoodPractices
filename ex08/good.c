@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* Prefer returning simple values instead of using an out pointer here. [web:8] */
-int computeSquare(int value)
+static int computeSquare(int value)
 {
     return value * value;
 }
