@@ -14,7 +14,7 @@ Here are 10 good practice principles you should follow to keep your code clean, 
 
 7. Manage resources carefully: allocate, use, and free memory and other resources in a disciplined way.  
 
-8. Name intent: use variables, MACROS and functions() names to explain what the code is doing.  
+8. Name intent: use variables, MACROS and functions() names to explain what the code is doing by using camelCase or snake_case.  
 
 9. Support maintainability: write code that is easy to modify, extend, and refactor over time.
 
